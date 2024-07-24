@@ -4,6 +4,9 @@
 MavenTech is using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform. My role as a BI Developer is to create an interactive dashboard that enables sales managers to track their team's quarterly performance.
 
 ## Dataset
+
+**Link to the dataset** : https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e
+
 The data contains B2B sales opportunities from a CRM database which consists of 8800 records with information such as accounts, products, sales teams and opportunities.
 
 ## Dashboard
