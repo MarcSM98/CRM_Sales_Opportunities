@@ -1,4 +1,4 @@
-# CRM Sales Opportunities
+# CRM Sales Opportunities Dashboard
 
 ## Challenge Objective
 MavenTech is using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform. My role as a BI Developer is to create an interactive dashboard that enables sales managers to track their team's quarterly performance.
